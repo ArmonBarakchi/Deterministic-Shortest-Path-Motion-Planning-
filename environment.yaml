@@ -1,0 +1,7 @@
+name: PR2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
